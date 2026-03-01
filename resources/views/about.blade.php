@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>About</title>
     @vite("resources/css/app.css")
 </head>
 <body>
-    <h2>Welcome View</h2>
+    <h2>About View</h2>
 </body>
 </html>
